@@ -26,35 +26,10 @@ A full stack application with a FastAPI backend and a React frontend. The backen
 CES_full_stack/
 │
 ├── README.md
+├── LICENSE
 ├── .gitignore
 ├── backend/
-│   ├── .env
-│   ├── main.py
-│   ├── requirements.txt
-│   └── app/
-│       ├── email_generator.py
-│       └── extract.py
-│
 └── frontend/
-    ├── .gitignore
-    ├── package.json
-    ├── README.md
-    ├── public/
-    │   ├── favicon.ico
-    │   ├── index.html
-    │   ├── logo192.png
-    │   ├── logo512.png
-    │   ├── manifest.json
-    │   └── robots.txt
-    └── src/
-        ├── App.css
-        ├── App.js
-        ├── App.test.js
-        ├── index.css
-        ├── index.js
-        ├── logo.svg
-        ├── reportWebVitals.js
-        └── setupTests.js
 ```
 
 ---
