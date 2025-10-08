@@ -23,7 +23,7 @@ A full stack application with a FastAPI backend and a React frontend. The backen
 ## Project Structure
 
 ```
-CES_full_stack/
+ColdEmailFullStack/
 │
 ├── README.md
 ├── LICENSE
