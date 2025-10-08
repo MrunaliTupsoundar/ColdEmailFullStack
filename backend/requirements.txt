@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-multipart    # To handle file uploads
+pdfminer.six
+spacy
+google-genai
+python-dotenv
